@@ -1,5 +1,6 @@
 const accountId = 1454553
-let accountEmail = "deeepu.agrawal@gmail.com"A,d/cr,t.90-p0= --++var accountPassword = "12345"
+let accountEmail = "deeepu.agrawal@gmail.com"
+var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
 
